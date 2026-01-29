@@ -11,12 +11,12 @@
 
     #bandeira{
         width: 100%;
+        height: 550px;
     }
 
     #bandeira div{
         width: 80%;
-        height: 500px;
-        margin-left: 10px;
+        margin-left: 20px;
 
     }
 
